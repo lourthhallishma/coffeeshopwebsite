@@ -1,9 +1,9 @@
 
-# ☕ Hallishma's Coffee Shop Website
+#  Hallishma's Coffee Shop Website
 
 This is a **Coffee Shop Website** that provides an interactive platform for users to explore coffee products, manage reservations, browse blogs, and make online purchases. It features a user-friendly interface, admin dashboard, and a database-backed ordering system.
 
-## 📌 Features
+## Features
 
 - **User & Admin Panel** (Admin can manage reservations, orders, and products)
 - **Dynamic Menu & Gallery** (Showcasing coffee varieties and ambiance)
@@ -13,7 +13,7 @@ This is a **Coffee Shop Website** that provides an interactive platform for user
 - **Secure Login & Authentication** (User accounts and sessions)
 - **Search & Cart Functionality** (For a seamless shopping experience)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
@@ -23,7 +23,7 @@ This is a **Coffee Shop Website** that provides an interactive platform for user
 
 ```
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Setup XAMPP:**
    - Install [XAMPP](https://www.apachefriends.org/index.html).
